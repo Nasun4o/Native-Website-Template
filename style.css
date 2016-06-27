@@ -63,11 +63,11 @@ img {
     height: 18px;
 }
 
-.mainHeader nav a:hover, .mainHeader nav a:active
+/*.mainHeader nav a:hover, .mainHeader nav a:active
 .mainHeader nav .active a:link, .mainHeader nav .active {
     background: #CF5C3F;
     text-shadow: none;
-}
+}*/
 
 .mainHeader nav ul li a {
     border-radius: 1px;
